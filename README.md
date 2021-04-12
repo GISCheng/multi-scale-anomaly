@@ -19,4 +19,4 @@ The file "input_threescales" is the input of the program "Multi-spatial-scale.ip
 ## Cite
 Please consider citing our paper if this helps in your work:
 
-Ximeng Cheng, Zhiqian Wang, Xuexi Yang, Liyan Xu, & Yu Liu (2020). Multi-scale detection and interpretation of spatio-temporal anomalies of human activities represented by time-series. Computers, Environment and Urban Systems. 1-13. [DOI](https://doi.org/10.1016/j.compenvurbsys.2021.101627)
+Ximeng Cheng, Zhiqian Wang, Xuexi Yang, Liyan Xu, & Yu Liu (2021). Multi-scale detection and interpretation of spatio-temporal anomalies of human activities represented by time-series. Computers, Environment and Urban Systems. 88:101627. [DOI](https://doi.org/10.1016/j.compenvurbsys.2021.101627)
